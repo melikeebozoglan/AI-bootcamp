@@ -1,0 +1,71 @@
+bana bir front end developer gibi bir responsive web sitesi tasarlamanı istiyorum.
+- bu web sitesi temel bir html sayfasından oluşmalı ve proje dosyasında index.html, styles.css ve scrips.js dosyaları olmalıdır. 
+dikkat etmen gereken kısımlar şöyledir; 
+* semantik etiketler kullanılmalıdır (header, main, nav, section, article, aside, footer gibi).
+- aside kısmında kategoriler kısmı olmalıdır (sayfanın sağını kısmında bulunmalıdır) 
+- header kısmında logo ve kafe adı yazmalıdır
+- navbar kısmında ile hakkında, iletişim, konum gibi kafe hakkında bilgi olmalıdır 
+- responsive olmalıdır 
+- title kısımı, favicon kısmı logo kısmı için örnek boş tag koyabilirsin. - design kısmı sade basit anlaşılır olmalıdır. 
+- bu proje bir menü uygulamasıdır. 
+- tek sayfada bir kafenin menüsünü oluşturman lazım.
+- img taglarını da ekle ama gerçek bir resim ekleme. bunları adım adım uygulayarak sonucu direkt gösterir misin?
+
+
+bootstrap ekleyebilir misin?
+
+
+aside tagında 1.içecekler 1.1 soğuk içecek 1.2 sıcak içecekler  2. kahveler 2.1 soğuk kahveler 2.2 sıcak kahveler 3. tatlılar 4. hamburger 5. pizza 6. kumru 7. kupir şeklinde dl tagı kullnarak bir menü yapar mısın?
+
+
+main tagı içinde ise productlar olacak. aside kısmındaki elemanlar biizm productımız. productları burada bootsatrap kartı ile gösterebilir misi? her ürünün title ı fiyatı resmi ve açıklaması bulunmalıdır. yapabilir misin?
+
+
+kullanıcı navbar kısmında bulunan hakkında iletişim elemanlarına basınca footer kısmında hakkında  başalığına gitsin (başlığın altında küçük  ir açıklama bulunsun), iletişime basınca iletişim başlığına gitsin (başlığın altında tel no bulunsun) ve konum kısmına basınca da konum başlığına gitsin (başlığın altında konum bilgiis bulunsun).  ve footer kısmında bu başlıklar yan yana bulunsun. orantılı şekilde. bu senaryoyu gerçekleştirebilir misin?
+
+
+konum bilgisini google map ile verebilir misin?
+
+
+peki map e istediğim konumu vermek için hangi attribüte değiştirilmelidir
+
+
+yaratıcı bir kafe adı önerir misin?
+
+
+dt elemanlarını a tagı içine alır mısın? href olarak da h5 etiketi içindeki ürün title olamlı. her dt elemanları için ürün kartı oluşturmalısın
+
+
+ilk olarak ilk koddan 5 tane oluşturmalısın çünkü bu listede 5 tane ürün var. ikinci olarak oluşturduğun 5 kod bloğunun ürün title kısımlarını da doldurmalısın. üçüncü olarak ürünlerin en üstüne h2 etiketi oluştur ve başık olarak içecekler yaz.  son olarak da dt elemanlarına a etiketi ekle href olarak da yeni oluşturacağın h2 etiketini ver.
+
+
+
+favicon nasıl yazpılır
+
+
+-->görseller     
+Meciele Caffe logo oluşturabilir misin            
+Limonata
+Soğuk Çay
+Cola
+Sıcak Çikolata
+Sahlep
+turkish tea
+Frappuccino
+Latte
+Cold Brew
+Mocha
+Americano
+Türk Kahvesi
+Çikolatalı Pasta
+Meyveli Pasta
+Karamelli Pasta                
+Milkshake
+Smoothie
+Waffle
+Pizza
+Kumru
+Kumpir
+Hamburger
+Çıtır Kova
+Hot Dog
